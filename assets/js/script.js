@@ -81,8 +81,6 @@ const questions= [
     };   
 ]
 
-
-
 function startQuiz() {
 
 }

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto&family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courgette', sans-serif;
+}
+
+body {
+background-color: #778899;
+
+}
+
+#container {
+    align-items: center;
+    text-align: center;
+    height: 850px;
+   
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 400px;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.btn {
+    font-family: Arial, sans-serif;
+}
