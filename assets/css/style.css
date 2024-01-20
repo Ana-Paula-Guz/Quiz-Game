@@ -24,7 +24,7 @@ background-color: #778899;
 
 h1 {
     color: whitesmoke;
-    margin-top: 400px;
+    margin-top: 350px;
     font-size: 50px;
 }
 
@@ -38,4 +38,14 @@ h2 {
     align-self: center;
     font-size: 25px;
     width: 200px;
+}
+
+.btn:hover {
+    background-color: #DAA520;
+}
+
+#next-btn {
+    margin-top: 20px; 
+    font-size: 18px;
+    width: 100px;
 }

@@ -1,6 +1,6 @@
 const questions= [
     {
-        question: "How many counties are in the Republic of Ireland?"
+        question: "How many counties are in the Republic of Ireland?",
         answers: [
             { text: "26", correct: true };
             { text: "30", correct: false };
@@ -8,7 +8,7 @@ const questions= [
         ]
     };
     {
-        question: "What is the capital of Estonia? "
+        question: "What is the capital of Estonia?",
         answers: [
             { text: "Tallinn", correct: true };
             { text: "Helsinki", correct: false };
@@ -16,7 +16,7 @@ const questions= [
         ]
     };
     {
-        question: "Broome is a town in which state of Australia?"
+        question: "Broome is a town in which state of Australia?",
         answers: [
             { text: "Western Australia", correct: true };
             { text: "Northern Territory", correct: false };
@@ -24,7 +24,7 @@ const questions= [
         ]
     };
     {
-        question: "What was the most populous city in the Americas in 2015?"
+        question: "What was the most populous city in the Americas in 2015?",
         answers: [
             { text: "Sao Paulo", correct: true };
             { text: "New York", correct: false };
@@ -32,7 +32,7 @@ const questions= [
         ];
     {;
     {
-        question: "What was the most populous city in the Americas in 2015?";
+        question: "What was the most populous city in the Americas in 2015?",
         answers: [
             { text: "Sao Paulo", correct: true };
             { text: "New York", correct: false };
@@ -40,7 +40,7 @@ const questions= [
         ];
     }; 
     {
-        question: "How many countries share a land border with Luxembourg?"
+        question: "How many countries share a land border with Luxembourg?",
         answers: [
             { text: "3", correct: true };
             { text: "5", correct: false };
@@ -48,7 +48,7 @@ const questions= [
         ];
     }; 
     {
-        question: "Which of the following is NOT a capital city?"
+        question: "Which of the following is NOT a capital city?",
         answers: [
             { text: "Sydney", correct: true };
             { text: "Cairo", correct: false };
@@ -56,7 +56,7 @@ const questions= [
         ];
     }; 
    {
-        question: "How many countries does Spain have a land border with?"
+        question: "How many countries does Spain have a land border with?",
         answers: [
             { text: "5", correct: true };
             { text: "4", correct: false };
@@ -64,7 +64,7 @@ const questions= [
         ];
    };
         {
-            question: "Which of these is NOT a city in Saudi Arabia?"
+            question: "Which of these is NOT a city in Saudi Arabia?",
             answers: [
                 { text: "Dubai", correct: true };
                 { text: "Mecca", correct: false };
@@ -72,7 +72,7 @@ const questions= [
             ];
     };
     {
-            question: "If you travelled to the city of Volgograd, which country would be in?"
+            question: "If you travelled to the city of Volgograd, which country would be in?",
             answers: [
                 { text: "Russia", correct: true };
                 { text: "Poland", correct: false };
