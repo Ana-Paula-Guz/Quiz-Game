@@ -4,19 +4,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courgette', sans-serif;
+    font-family: Courgette, sans-serif;
 }
 
 body {
 background-color: #778899;
-
 }
 
 #container {
-    align-items: center;
-    text-align: center;
-    height: 850px;
-   
+   align-items: center;
+   text-align: center;
+}
+
+#question {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
 h1 {
@@ -26,9 +29,13 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 35px;
+    margin-top: 12px;
 }
 
 .btn {
     font-family: Arial, sans-serif;
+    align-self: center;
+    font-size: 25px;
+    width: 200px;
 }
