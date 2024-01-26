@@ -16,27 +16,30 @@ background-color: #778899;
    text-align: center;
 }
 
-#question {
+#options {
     display: flex;
-    flex-direction: column;
-    gap: 8px;
+    justify-content: center;
+    flex-direction: row;
+    align-content: center;    
+    gap: 20px;
 }
 
 h1 {
     color: whitesmoke;
-    margin-top: 350px;
+    margin-top: 50px;
     font-size: 50px;
+    text-align: center;
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 25px;
     margin-top: 12px;
 }
 
 .btn {
     font-family: Arial, sans-serif;
     align-self: center;
-    font-size: 25px;
+    font-size: 20px;
     width: 200px;
 }
 
