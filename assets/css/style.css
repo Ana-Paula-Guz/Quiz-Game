@@ -19,7 +19,7 @@ background-color: #778899;
 #options {
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     align-content: center;    
     gap: 20px;
 }
@@ -33,7 +33,7 @@ h1 {
 
 h2 {
     font-size: 25px;
-    margin-top: 12px;
+    margin: 25px;
 }
 
 .btn {
